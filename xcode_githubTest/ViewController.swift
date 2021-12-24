@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hi")
         print("github")
+        print("git 커밋")
     }
 
 
